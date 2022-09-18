@@ -12,9 +12,9 @@ pipeline {
                                   steps
 					{
 
-					  sh 'sudo docker run --name server1 -itdp 80:80 httpd'
-					  sh 'sudo docker run --name server2 -itdp 90:80 httpd'
-					  sh 'sudo docker run --name server3 -itdp 8080:80 httpd'
+					  sh 'sudo docker run --name server4 -itdp 60:80 httpd'
+					  sh 'sudo docker run --name server5 -itdp 70:80 httpd'
+					  sh 'sudo docker run --name server6 -itdp 8090:80 httpd'
 					}
                           
 
