@@ -26,7 +26,7 @@ pipeline {
                           {  
                               dir('/data/22q1')
                               {
-                               sh 'sudo cd /data/22q1'
+                               
                                sh 'sudo docker cp index.html server1:/usr/local/apache2/htdocs'
                               }
 
