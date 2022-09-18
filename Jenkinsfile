@@ -12,8 +12,7 @@ pipeline {
                                         {
 
                                           sh 'sudo docker run --name server1 -itdp 80:80 httpd'
-                                          sh 'sudo docker run --name server2 -itdp 90:80 httpd'
-                                          sh 'sudo docker run --name server3 -itdp 8080:80 httpd'
+                                          
                                         }
 
 
