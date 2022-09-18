@@ -33,38 +33,10 @@ pipeline {
 
                            }
 
+                       }
 
 
-                      }
-
-
-                  stage('copy index file2 into container')
-                       {
-                          steps 
-                                {
-                                    dir('/data/22q2')
-                                        sh 'sudo cd /data/22q2'
-                                        sh 'sudo docker cp index.html server2:/usr/local/apache2/htdocs'
-                                }
-
-                        }
-
-                   stage('copy index file3 into container')
-
-                        {
-                                steps 
-                                {
-                                    dir('/data/22q3')
-                                    {
-
-                                        sh 'sudo cd /data/22q3'
-                                        sh 'sudo docker cp index.html server3:/usr/local/apache2/htdocs'
-                                    }
-                                }
-
-                        }
-
-                }
-
+               
+               }
 }
 
