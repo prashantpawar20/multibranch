@@ -22,7 +22,7 @@ pipeline {
                  
 
 
-                  stage('copy index file2 into container')
+                   stage('copy index file2 into container')
                        {
                           steps 
                                 {
