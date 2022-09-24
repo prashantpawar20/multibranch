@@ -5,3 +5,5 @@
 # Please adapt and uncomment the following lines:
 #	name = root
 #	email = root@ip-172-31-24-54.us-east-2.compute.internal
+[pull]
+	ff = true
