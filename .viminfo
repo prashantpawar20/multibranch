@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :x
-|2,0,1664030571,,"x"
+|2,0,1665918911,,"x"
 :wq!
 |2,0,1663952495,,"wq!"
 :q!
@@ -43,34 +43,88 @@ $
 |3,0,2,1,1,0,1663948962,"jenkins ALL=(ALL) NOPASSWD: ALL"
 
 # File marks:
-'0  1  0  /var/lib/jenkins
-|4,48,1,0,1664030571,"/var/lib/jenkins"
-'1  1  0  ~/jenkins
-|4,49,1,0,1664030455,"~/jenkins"
-'2  1  0  /etc/systemd/system/jenkins.service.d/override.conf
-|4,50,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
-'3  19  11  /mnt/compose/docker-compose.yml
-|4,51,19,11,1663952495,"/mnt/compose/docker-compose.yml"
-'4  19  12  /mnt/compose/docker-compose.yml
-|4,52,19,12,1663952406,"/mnt/compose/docker-compose.yml"
-'5  4  2  /mnt/slave2/Dockerfile
-|4,53,4,2,1663952123,"/mnt/slave2/Dockerfile"
-'6  4  2  /mnt/slave1/Dockerfile
-|4,54,4,2,1663952093,"/mnt/slave1/Dockerfile"
-'7  15  3  /mnt/compose/docker-compose.yml
-|4,55,15,3,1663951718,"/mnt/compose/docker-compose.yml"
-'8  12  3  /mnt/compose/docker-compose.yml
-|4,56,12,3,1663951718,"/mnt/compose/docker-compose.yml"
+'0  2  0  ~/index.html
+|4,48,2,0,1665918911,"~/index.html"
+'1  51  0  /mnt/compose/Jenkinsfile
+|4,49,51,0,1664044671,"/mnt/compose/Jenkinsfile"
+'2  1  0  /var/lib/jenkins
+|4,50,1,0,1664030571,"/var/lib/jenkins"
+'3  1  0  ~/jenkins
+|4,51,1,0,1664030455,"~/jenkins"
+'4  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,52,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+'5  19  11  /mnt/compose/docker-compose.yml
+|4,53,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+'6  19  12  /mnt/compose/docker-compose.yml
+|4,54,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+'7  4  2  /mnt/slave2/Dockerfile
+|4,55,4,2,1663952123,"/mnt/slave2/Dockerfile"
+'8  4  2  /mnt/slave1/Dockerfile
+|4,56,4,2,1663952093,"/mnt/slave1/Dockerfile"
 '9  15  3  /mnt/compose/docker-compose.yml
 |4,57,15,3,1663951718,"/mnt/compose/docker-compose.yml"
 
 # Jumplist (newest first):
+-'  2  0  ~/index.html
+|4,39,2,0,1665918911,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1665918896,"~/index.html"
+-'  51  0  /mnt/compose/Jenkinsfile
+|4,39,51,0,1664044671,"/mnt/compose/Jenkinsfile"
+-'  51  0  /mnt/compose/Jenkinsfile
+|4,39,51,0,1664044671,"/mnt/compose/Jenkinsfile"
+-'  1  0  /mnt/compose/Jenkinsfile
+|4,39,1,0,1664040928,"/mnt/compose/Jenkinsfile"
+-'  1  0  /mnt/compose/Jenkinsfile
+|4,39,1,0,1664040928,"/mnt/compose/Jenkinsfile"
+-'  1  0  /var/lib/jenkins
+|4,39,1,0,1664030571,"/var/lib/jenkins"
+-'  1  0  /var/lib/jenkins
+|4,39,1,0,1664030571,"/var/lib/jenkins"
+-'  1  0  /var/lib/jenkins
+|4,39,1,0,1664030571,"/var/lib/jenkins"
 -'  1  0  /var/lib/jenkins
 |4,39,1,0,1664030571,"/var/lib/jenkins"
 -'  1  0  ~/jenkins
 |4,39,1,0,1664030455,"~/jenkins"
 -'  1  0  ~/jenkins
 |4,39,1,0,1664030455,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1664030455,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1664030455,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1664030455,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1664030455,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1664030455,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1664030455,"~/jenkins"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
+-'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
+|4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
 -'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
 |4,39,1,0,1664030438,"/etc/systemd/system/jenkins.service.d/override.conf"
 -'  1  0  /etc/systemd/system/jenkins.service.d/override.conf
@@ -95,6 +149,102 @@ $
 |4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
 -'  19  11  /mnt/compose/docker-compose.yml
 |4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  11  /mnt/compose/docker-compose.yml
+|4,39,19,11,1663952495,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
+-'  19  12  /mnt/compose/docker-compose.yml
+|4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
 -'  19  12  /mnt/compose/docker-compose.yml
 |4,39,19,12,1663952406,"/mnt/compose/docker-compose.yml"
 -'  19  12  /mnt/compose/docker-compose.yml
@@ -115,156 +265,36 @@ $
 |4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
 -'  15  3  /mnt/compose/docker-compose.yml
 |4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  15  3  /mnt/compose/docker-compose.yml
-|4,39,15,3,1663952277,"/mnt/compose/docker-compose.yml"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  4  2  /mnt/slave2/Dockerfile
-|4,39,4,2,1663952123,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
--'  3  28  /mnt/slave2/Dockerfile
-|4,39,3,28,1663952102,"/mnt/slave2/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	*	1665918910	0
+	"	2	0
+	^	2	0
+	.	1	18
+	+	1	18
+
+> /mnt/compose/Jenkinsfile
+	*	1664044670	0
+	"	51	0
+	^	51	1
+	.	25	34
+	+	51	0
+	+	5	54
+	+	5	10
+	+	5	55
+	+	5	53
+	+	5	49
+	+	5	46
+	+	12	1
+	+	8	11
+	+	41	2
+	+	32	4
+	+	21	3
+	+	18	32
+	+	27	5
+	+	25	34
 
 > ~/jenkins
 	*	1664030454	0
@@ -473,10 +503,3 @@ $
 	.	5	25
 	+	4	16
 	+	5	25
-
-> ~/index.html
-	*	1663481950	0
-	"	1	3
-	^	1	4
-	.	1	3
-	+	1	3
